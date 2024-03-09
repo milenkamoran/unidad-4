@@ -1,0 +1,58 @@
+
+body{
+    background-image: url(opcion.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+
+#spacer{
+    height: 100px; /* Simula contenido para hacer el scroll */
+}
+
+
+
+#titulo{
+    background-color: rgb(246, 245, 247); 
+    border-radius: 20px;
+    
+}
+
+
+
+
+.publicacionesmostrar{
+    background-color:  rgb(233, 216, 240)
+}
+#botonEliminar{
+    background-color:  rgb(207, 85, 81) ;
+    border: 2px solid  rgb(212, 107, 107);
+    color: white;
+}
+#botonEditar{
+    background-color: rgb(225, 199, 236);
+    border: 2px solid  rgb(187, 165, 223);
+    color: black;
+}
+
+#publicacionesmostrar2{
+    background-color:rgb(231, 248, 200)
+}
+
+.fecha{
+    padding-top: 2px;
+}
+
+#botonLike{
+    background-color:  rgb(199, 214, 236);
+    border: 2px solid   rgb(154, 172, 199);
+    color: black;
+  
+}
+
+#botonComentar{
+    background-color: white;
+    border: 2px solid rgb(199, 196, 196);
+    color: black;
+}
